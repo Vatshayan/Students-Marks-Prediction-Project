@@ -1,7 +1,9 @@
 # Students-Marks-Prediction-Project
 Prediction of marks of students using Machine Learning algorithms. 
 
+Code : [LINk](https://github.com/Vatshayan/Students-Marks-Prediction-Project/blob/main/StudentMarkPrediction.ipynb)
 
+Dataset : [LINK](https://github.com/Vatshayan/Students-Marks-Prediction-Project/blob/main/student_scores.csv)
 ______________________________________________________________________________________________________________
 
 **You Can use this Beautiful Project for your college Project and get good marks too.**
